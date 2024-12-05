@@ -86,7 +86,7 @@
 
 ## Join the Community
 
-Visit our [website](https://pvzfusion.io/) to download PVZ Fusion, join community discussions, and access guides, tutorials, and advanced strategies to master plant fusion and defense tactics!
+Visit our [PVZ Fusion Website](https://pvzfusion.io/) to download PVZ Fusion, join community discussions, and access guides, tutorials, and advanced strategies to master plant fusion and defense tactics!
 
 ---
 
