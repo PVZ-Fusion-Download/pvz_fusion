@@ -1,4 +1,4 @@
-# PVZ Fusion Download
+# PVZ Fusion Download Online
 
 ### Plants vs Zombies: Fusion Edition - Where Strategy Meets Plant Evolution 🌱🧟‍♂️
 
@@ -87,6 +87,8 @@
 ## Join the Community
 
 Visit our [PVZ Fusion Website](https://pvzfusion.io/) to download PVZ Fusion, join community discussions, and access guides, tutorials, and advanced strategies to master plant fusion and defense tactics!
+
+[Official Discord](https://discord.com/invite/pvzfusion)
 
 ---
 
